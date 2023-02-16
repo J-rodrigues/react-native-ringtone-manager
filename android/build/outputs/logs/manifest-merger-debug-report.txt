@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:3:11-37
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:1-8:12
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:4:5-73
+	android:name
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:4:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:5:2-77
+	android:name
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:5:19-75
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:6:2-76
+	android:name
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:6:19-73
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:7:2-77
+	android:name
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml:7:19-74
+uses-sdk
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+		ADDED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/julianorodrigues/Projects/cantos/todoscantos/node_modules/react-native-ringtone-manager/android/src/main/AndroidManifest.xml
